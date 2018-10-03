@@ -1,0 +1,6 @@
+[package]
+name = "tes4-bsa-extract"
+version = "0.1.0"
+authors = ["dangreco <dan.greco@live.com>"]
+
+[dependencies]
