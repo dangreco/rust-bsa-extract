@@ -111,7 +111,7 @@ fn get_header(d: &Vec<u8>) -> Option<Header>
         return None;
     }
 
-    if version.unwrap() != 103 || version.unwrap() != 104 {
+    if version.unwrap() != 103 && version.unwrap() != 104 {
         println!("Invalid BSA version. (Version is not 103/104)");
         return None;
     }
