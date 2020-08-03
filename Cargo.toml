@@ -1,6 +1,6 @@
 [package]
-name = "tes4-bsa-extract"
-version = "0.1.0"
+name = "rust-bsa-extract"
+version = "0.1.1"
 authors = ["dangreco <dan.greco@live.com>"]
 
 [dependencies]
