@@ -2,7 +2,7 @@
 name = "rust-bsa-extract"
 description = "Tool to extract Bethesda Softworks Archives (BSAs)"
 license = "MIT"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["dangreco <dan.greco@live.com>"]
 
 [dependencies]
